@@ -1,0 +1,25 @@
+#	yorum satiri
+
+veri girisi      a = input("Bir Sayi Giriniz :")
+veri cikisi      print("Serkan" + a)
+
+kosul ifadeleri  if a > b :      elif a == b :      else :
+
+toplama +
+cikarma -
+carpma  *
+bolme   /
+us     **
+mod     %
+
+== esittir
+!= esit degildir
+>  büyüktür
+<  küçüktür
+>= büyük esittir
+<= küçük esittir
+
+f = open("Deneme.txt")
+print(f.read())
+
+print("Serkan {} Kumru {}".format(1997,metin))
